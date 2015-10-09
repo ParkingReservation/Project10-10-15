@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rasnaaa/Downloads/untouched 2 2/sample/build/intermediates/exploded-aar/untouched 2 2/lib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5b5a43c7a5d1b81b2d37679e877e4ad50576498">
+        <dex dex="/Users/rasnaaa/Downloads/untouched 2 2/sample/build/intermediates/pre-dexed/debug/classes-d78a160d442c2f5f2713bb1bb28c84ad2dca4f4b.jar" />
+    </item>
+    <item
+        jar="/Users/rasnaaa/Downloads/untouched 2 2/sample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/rasnaaa/Downloads/untouched 2 2/sample/build/intermediates/pre-dexed/debug/classes-284bf22ce9566449a0bbe795403e3b6a44e3d375.jar" />
+    </item>
+    <item
+        jar="/Users/rasnaaa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/rasnaaa/Downloads/untouched 2 2/sample/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-d939f773b5318275e1f52042a3571e9b885c19ef.jar" />
+    </item>
+    <item
+        jar="/Users/rasnaaa/Downloads/untouched 2 2/sample/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/rasnaaa/Downloads/untouched 2 2/sample/build/intermediates/pre-dexed/debug/classes-a7b36aa46d8756ae2f5cfc807818208857fc06a3.jar" />
+    </item>
+    <item
+        jar="/Users/rasnaaa/Downloads/untouched 2 2/sample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/rasnaaa/Downloads/untouched 2 2/sample/build/intermediates/pre-dexed/debug/classes-284bf22ce9566449a0bbe795403e3b6a44e3d375.jar" />
+    </item>
+    <item
+        jar="/Users/rasnaaa/Downloads/untouched 2 2/sample/build/intermediates/exploded-aar/untouched 2 2/lib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7e3795efec9797c42112dfb27f382b3f56841936">
+        <dex dex="/Users/rasnaaa/Downloads/untouched 2 2/sample/build/intermediates/pre-dexed/debug/classes-d78a160d442c2f5f2713bb1bb28c84ad2dca4f4b.jar" />
+    </item>
+    <item
+        jar="/Users/rasnaaa/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.4/3bae85a076241828810bf8fbcc12e5891d5fc34c/android-async-http-1.4.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="/Users/rasnaaa/Downloads/untouched 2 2/sample/build/intermediates/pre-dexed/debug/android-async-http-1.4.4-c13c3ece8ecc81fe0c7bc146ad05596e7fe44503.jar" />
+    </item>
+    <item
+        jar="/Users/rasnaaa/Downloads/untouched 2 2/sample/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/rasnaaa/Downloads/untouched 2 2/sample/build/intermediates/pre-dexed/debug/classes-a7b36aa46d8756ae2f5cfc807818208857fc06a3.jar" />
+    </item>
+    <item
+        jar="/Users/rasnaaa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/rasnaaa/Downloads/untouched 2 2/sample/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-d939f773b5318275e1f52042a3571e9b885c19ef.jar" />
+    </item>
+    <item
+        jar="/Users/rasnaaa/Library/Android/sdk/build-tools/21.1.2/renderscript/lib/renderscript-v8.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2b276904cd854be6d460f2bcec9cf2cddaf580c1">
+        <dex dex="/Users/rasnaaa/Downloads/untouched 2 2/sample/build/intermediates/pre-dexed/debug/renderscript-v8-f52a7bf817593a56f6e83aad5706584630abe95b.jar" />
+    </item>
+    <item
+        jar="/Users/rasnaaa/Downloads/untouched 2 2/sample/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/rasnaaa/Downloads/untouched 2 2/sample/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-0ece29f5c975f2675c0657f1d982364b4129f775.jar" />
+    </item>
+    <item
+        jar="/Users/rasnaaa/Downloads/untouched 2 2/sample/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/rasnaaa/Downloads/untouched 2 2/sample/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-0ece29f5c975f2675c0657f1d982364b4129f775.jar" />
+    </item>
+    <item
+        jar="/Users/rasnaaa/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.4/3bae85a076241828810bf8fbcc12e5891d5fc34c/android-async-http-1.4.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="/Users/rasnaaa/Downloads/untouched 2 2/sample/build/intermediates/pre-dexed/debug/android-async-http-1.4.4-c13c3ece8ecc81fe0c7bc146ad05596e7fe44503.jar" />
+    </item>
+
+</items>

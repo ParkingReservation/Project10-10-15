@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Car Park Reservation</string>
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Select Department</string>
+    <string name="title_section3">Confirmation Details</string>
+    <string name="title_section4">About Us</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_dialog">Select Department</string>
+    <string name="title_activity_floor_fragment">FloorFragment</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

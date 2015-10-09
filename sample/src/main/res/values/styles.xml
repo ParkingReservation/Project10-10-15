@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="NewApi">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/etsy_actionbar</item>
+        <item name="android:actionBarTabTextStyle">@style/TabTextStyle</item>
+        <item name="android:actionMenuTextColor">@color/actionbar_text</item>
+        <!-- Support library compatibility -->
+        <item name="actionBarStyle">@style/etsy_actionbar</item>
+        <item name="actionBarTabTextStyle">@style/TabTextStyle</item>
+        <item name="actionMenuTextColor">@color/actionbar_text</item>
+    </style>
+
+    <style name="etsy_actionbar" parent="@style/Widget.AppCompat.ActionBar">
+        <item name="android:titleTextStyle">@style/TitleTextStyle</item>
+        <!-- ActionBar Background Color -->
+        <item name="android:background">@color/bg_action_bar</item>
+        <!-- Support library compatibility -->
+        <item name="titleTextStyle">@style/TitleTextStyle</item>
+        <item name="background">@color/bg_action_bar</item>
+    </style>
+
+    <!-- action bar title text -->
+    <style name="TitleTextStyle"
+        parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/actionbar_text</item>
+    </style>
+
+    <!-- action bar tab text -->
+    <style name="TabTextStyle"
+        parent="@style/Widget.AppCompat.ActionBar.TabText">
+        <item name="android:textColor">@color/actionbar_text</item>
+    </style>
+
+</resources>

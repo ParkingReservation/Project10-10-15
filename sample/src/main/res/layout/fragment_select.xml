@@ -1,0 +1,21 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ms.square.android.etsyblurdemo.SelectFragment">
+
+    <ListView
+        android:id="@+id/dialog_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:scrollbars="none"
+        android:background="@android:color/white"
+        android:choiceMode="singleChoice">
+    </ListView>
+
+
+</FrameLayout>
